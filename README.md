@@ -1,6 +1,6 @@
 ## Investment-Opportunity-Discovery-in-Real-Estate-Market
 
-Programming language: R
+Programming language: R  
 Operating system: windows 10
 
 #### Brief introduction: the codes involve the final training, testing, and visulization sessions. Codes for cleanining and preprocessing sessions are not included because the raw data are too big to upload (around 30 gb).
